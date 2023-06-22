@@ -5,8 +5,7 @@
         "descripcion": "3200 DPI, movilidad simple",
         "precio": 2500,
         "imagen": "images/m908.jpg",
-        "categoria": "Redragon",
-        "stock": 4
+        "categoria": "Redragon"
     },
     {
         "id": 2,
@@ -14,8 +13,7 @@
         "descripcion": "7200 DPI, movilidad avanzada",
         "precio": 3100,
         "imagen": "images/m711.jpg",
-        "categoria": "Redragon",
-        "stock": 6
+        "categoria": "Redragon"
     },
     {
         "id": 3,
@@ -23,8 +21,7 @@
         "descripcion": "Teclado mecanico switch rojo",
         "precio": 4000,
         "imagen": "images/gtcgamerbasic.jpg",
-        "categoria": "GTC",
-        "stock": 9
+        "categoria": "GTC"
     },
     {
         "id": 4,
@@ -32,8 +29,7 @@
         "descripcion": "Teclado mecanico switch azul",
         "precio": 7000,
         "imagen": "images/tecladogtcgamer.jpeg",
-        "categoria": "GTC",
-        "stock": 2
+        "categoria": "GTC"
     },
     {
         "id": 5,
@@ -41,8 +37,7 @@
         "descripcion": "Pad XL",
         "precio": 3500,
         "imagen": "images/padxl.jpg",
-        "categoria": "Redragon b",
-        "stock": 6
+        "categoria": "Redragon b"
     },
     {
         "id": 6,
@@ -50,7 +45,6 @@
         "descripcion": "Pad XXL",
         "precio": 2000,
         "imagen": "images/padxxl.png",
-        "categoria": "Redragon b",
-        "stock": 1
+        "categoria": "Redragon b"
     }
 ]
